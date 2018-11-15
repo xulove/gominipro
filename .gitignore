@@ -1,0 +1,4 @@
+upload/image/*.png
+upload/image/*.jpg
+vendor
+app.conf
